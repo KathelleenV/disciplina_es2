@@ -1,2 +1,3 @@
 Kathelleen
 Engenharia de Software II
+Uma excelente aula para ampliar o entendimento do assunto (git)
